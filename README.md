@@ -29,13 +29,12 @@ Users should be able to:
 ### Screenshot
 
 ![](solution/desktop.png)
-![](solution/mobile.png)
 
 
 ### Links
 
-- Solution URL: [https://github.com/SpiritedSea091/frontend-project-1/](https://your-solution-url.com)
-- Live Site URL: [https://spiritedsea091.github.io/frontend-project-1/](https://your-live-site-url.com)
+- Solution URL: [https://github.com/SpiritedSea091/frontend-project-1/](https://github.com/SpiritedSea091/frontend-project-1/)
+- Live Site URL: [https://spiritedsea091.github.io/frontend-project-1/](https://spiritedsea091.github.io/frontend-project-1/)
 
 ## My process
 
