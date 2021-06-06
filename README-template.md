@@ -29,12 +29,13 @@ Users should be able to:
 ### Screenshot
 
 ![](images/image-header-desktop.jpg)
+![](images/image-header-desktop.jpg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/SpiritedSea091/frontend-project-1/](https://your-solution-url.com)
+- Live Site URL: [https://spiritedsea091.github.io/frontend-project-1/](https://your-live-site-url.com)
 
 ## My process
 
@@ -83,7 +84,6 @@ Understanding of elements with default height and width of auto like divs can be
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@spiritedsea091](https://twitter.com/spiritedsea091)
 
 
