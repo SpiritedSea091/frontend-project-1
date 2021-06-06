@@ -1,0 +1,109 @@
+/* Desktop styles */
+
+body{
+  background-color: hsl(233, 47%, 7%);
+  color: hsla(0, 0%, 100%, 0.6);
+  font-size: 15px;
+  font-family: 'Inter', sans-serif;
+  letter-spacing: 0.3px;
+  line-height: 1.6;
+}
+
+h2{
+  color: hsl(0, 0%, 100%);
+  font-weight: 700;
+  font-family: 'Inter', sans-serif;
+  padding-bottom: 20px;
+}
+
+h3{
+  font-size: 1.5rem;
+  color: hsl(0, 0%, 100%);
+  font-weight: 700;
+  font-family: 'Inter', sans-serif;
+}
+span{
+  color: hsl(277, 64%, 61%);
+}
+
+img{
+  mix-blend-mode: multiply;
+  opacity: 80%;
+  height:100%;
+  width: 100%;
+  object-fit: cover;
+  /* border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px; */
+}
+.container-fluid{
+  padding: 0 12%;
+
+}
+
+.container{
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.card-element{
+  background-color: hsl(244, 38%, 16%);
+  margin: 10% 0;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.text-column{
+  /* display: none; */
+  padding:7%;
+}
+
+.desc-text{
+  max-width: 90%;
+
+}
+
+.stats{
+  margin-top: 18%;;
+}
+
+.stat-text{
+  text-transform: uppercase;
+  font-family: "Lexend Deca", sans-serif;
+  font-size: 0.7rem;
+  color: hsla(0, 0%, 100%, 0.6);
+  margin-bottom: 0;
+}
+
+.image-col{
+  position: relative;
+  background-color: hsl(277, 64%, 61%);
+  padding: 0;
+}
+
+
+/* Mobile styles */
+@media only screen and (max-width: 760px) {
+  body{
+    text-align: center;
+    margin: auto;
+  }
+  .stat-elem{
+    padding-bottom: 10%;
+  }
+  h2{
+    padding-top: 4%;
+  }
+  .desc-text{
+    margin: auto;
+  }
+}
+
+.attribution {
+  display: none;
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+   color: hsl(228, 45%, 44%);
+   display: none;
+ }
